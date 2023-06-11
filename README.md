@@ -8,6 +8,12 @@ This demo uses
 - [OpenProps](https://open-props.style)
 - [Langchain JS/TS](https://js.langchain.com)
 
+## How it works
+
+Upload a PDF document and ask questions about it. The questions are sent to OpenAI and the answers are extracted from the PDF using Langchain.
+
+The PDF and embeddings are stored locally in the `static` directory. There is no need to sign up for a vector database like Pinecone.
+
 ## Getting Started
 
 ```bash
