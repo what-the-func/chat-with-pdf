@@ -14,6 +14,8 @@ Upload a PDF document and ask questions about it. The questions are sent to Open
 
 The PDF and embeddings are stored locally in the `static` directory. There is no need to sign up for a vector database like Pinecone.
 
+<iframe src="https://link.excalidraw.com/readonly/fCDFVJaFjpRzYa1EJREP?darkMode=true" width="100%" height="100%" style="border: none;"></iframe>
+
 ## Getting Started
 
 ```bash
